@@ -12,9 +12,9 @@ assignees: ''
 - [ ] Criteria 2: Describe the second acceptance criterion here.
 - [ ] Criteria 3: Describe additional criteria as needed.
 
+**Tasks:**
+- [ ]
+
 **Definition of Done:**
 - [ ] All acceptance criteria are met.
-- [ ] Code is reviewed and approved.
-- [ ] Necessary tests are written and pass.
-- [ ] Documentation is updated, if applicable.
-- [ ] Feature is deployed to the [environment name].
+- [ ] All tasks are done
