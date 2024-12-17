@@ -32,3 +32,5 @@ class MainMenu:
         if pygame.mouse.get_pressed()[0]:
             if self.exit_button_rect.collidepoint(pygame.mouse.get_pos()):
                 self.close_game()
+            if self.play_button_rect.collidepoint(pygame.mouse.get_pos()):
+                self.game_state_manager.set_state("game difficulty")
